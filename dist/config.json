@@ -1,0 +1,5 @@
+{
+    "wallet": "0xA145ac099E3d2e9781C9c848249E2e6b256b030D",
+    "networkUri": "https://mainnet.infura.io/v3/d674b6fba8be4bd9a7757f6ea0f2f399",
+    "API": "https://api.coingecko.com/api/v3/coins/list?include_platform=true"
+}
